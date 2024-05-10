@@ -2,9 +2,10 @@
 <html>
 <body>
 
-<h1>The img width attribute</h1>
+<h1>POWER BI DASHBOARD PROJECTS</h1>
 
-<img src="![OIG1 wC3jpXvVA59svWOan](https://github.com/Aryan4433/POWER_BI_DASHBOARDS/assets/118589541/028e84db-7688-4d3d-9936-bd98d4f0b28c)" alt="Girl in a jacket" width="500" height="600">
+<img src="![OIG1 wC3jpXvVA59svWOan](https://github.com/Aryan4433/POWER_BI_DASHBOARDS/assets/118589541/414c1d6c-76d3-42aa-9ec1-33ca952fac7d)
+" width="500" height="600">
 
 </body>
 </html>
